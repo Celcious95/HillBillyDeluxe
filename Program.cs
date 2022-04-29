@@ -58,8 +58,8 @@ namespace VendingMachine
 {
     class DrinkMachine
     {
-        const int DrinkCost = 150;
-        public int RunningTotal {get; set;}
+        const int DrinkCost = 1;
+        public int runningTotal {get; set;}
         public DrinkMachine()  
        
         {
@@ -109,7 +109,7 @@ namespace VendingMachine
         public bool checkTotal()
         {
            
-            if(RunningTotal >= DrinkCost)
+            if(runningTotal >= DrinkCost)
                 return true;
             else
                 return false;
@@ -133,10 +133,10 @@ namespace VendingMachine
 
         }
 
-        private void MakeDrinkSelection(char selectionOK)
+        private void MakeDrinkSelection(char selection)
 
         {
-            bool SelectionOK = false;
+            bool selectionOK = false;
             while (!selectionOK) 
             {
                 switch (selection)
@@ -171,9 +171,8 @@ namespace VendingMachine
                         Console.WriteLine("You have chosen Coke-Cola");
                         selectionOK = true;
                         break;
-
-
                 }
+            runningTotal = runningTotal - DrinkCost; 
             }
         }
     } 

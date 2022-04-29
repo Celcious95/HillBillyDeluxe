@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Anthony D. Peterson\\Desktop\\Vending Machine\\Vending Machine C# Code\\HillBillyDeluxe\\HillBillyDeluxe.csproj": {}
+    "C:\\Users\\Anthony D. Peterson\\Desktop\\C# Final Project\\Vending Machine\\Vending Machine C# Code\\HillBillyDeluxe\\HillBillyDeluxe.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Anthony D. Peterson\\Desktop\\Vending Machine\\Vending Machine C# Code\\HillBillyDeluxe\\HillBillyDeluxe.csproj": {
+    "C:\\Users\\Anthony D. Peterson\\Desktop\\C# Final Project\\Vending Machine\\Vending Machine C# Code\\HillBillyDeluxe\\HillBillyDeluxe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Anthony D. Peterson\\Desktop\\Vending Machine\\Vending Machine C# Code\\HillBillyDeluxe\\HillBillyDeluxe.csproj",
+        "projectUniqueName": "C:\\Users\\Anthony D. Peterson\\Desktop\\C# Final Project\\Vending Machine\\Vending Machine C# Code\\HillBillyDeluxe\\HillBillyDeluxe.csproj",
         "projectName": "HillBillyDeluxe",
-        "projectPath": "C:\\Users\\Anthony D. Peterson\\Desktop\\Vending Machine\\Vending Machine C# Code\\HillBillyDeluxe\\HillBillyDeluxe.csproj",
+        "projectPath": "C:\\Users\\Anthony D. Peterson\\Desktop\\C# Final Project\\Vending Machine\\Vending Machine C# Code\\HillBillyDeluxe\\HillBillyDeluxe.csproj",
         "packagesPath": "C:\\Users\\Anthony D. Peterson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Anthony D. Peterson\\Desktop\\Vending Machine\\Vending Machine C# Code\\HillBillyDeluxe\\obj\\",
+        "outputPath": "C:\\Users\\Anthony D. Peterson\\Desktop\\C# Final Project\\Vending Machine\\Vending Machine C# Code\\HillBillyDeluxe\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Anthony D. Peterson\\AppData\\Roaming\\NuGet\\NuGet.Config"

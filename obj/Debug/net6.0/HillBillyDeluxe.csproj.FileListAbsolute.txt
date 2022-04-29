@@ -3,3 +3,18 @@ C:\Users\Anthony D. Peterson\Desktop\Vending Machine\Vending Machine C# Code\Hil
 C:\Users\Anthony D. Peterson\Desktop\Vending Machine\Vending Machine C# Code\HillBillyDeluxe\obj\Debug\net6.0\HillBillyDeluxe.AssemblyInfoInputs.cache
 C:\Users\Anthony D. Peterson\Desktop\Vending Machine\Vending Machine C# Code\HillBillyDeluxe\obj\Debug\net6.0\HillBillyDeluxe.AssemblyInfo.cs
 C:\Users\Anthony D. Peterson\Desktop\Vending Machine\Vending Machine C# Code\HillBillyDeluxe\obj\Debug\net6.0\HillBillyDeluxe.csproj.CoreCompileInputs.cache
+C:\Users\Anthony D. Peterson\Desktop\C# Final Project\Vending Machine\Vending Machine C# Code\HillBillyDeluxe\obj\Debug\net6.0\HillBillyDeluxe.csproj.AssemblyReference.cache
+C:\Users\Anthony D. Peterson\Desktop\C# Final Project\Vending Machine\Vending Machine C# Code\HillBillyDeluxe\obj\Debug\net6.0\HillBillyDeluxe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anthony D. Peterson\Desktop\C# Final Project\Vending Machine\Vending Machine C# Code\HillBillyDeluxe\obj\Debug\net6.0\HillBillyDeluxe.AssemblyInfoInputs.cache
+C:\Users\Anthony D. Peterson\Desktop\C# Final Project\Vending Machine\Vending Machine C# Code\HillBillyDeluxe\obj\Debug\net6.0\HillBillyDeluxe.AssemblyInfo.cs
+C:\Users\Anthony D. Peterson\Desktop\C# Final Project\Vending Machine\Vending Machine C# Code\HillBillyDeluxe\obj\Debug\net6.0\HillBillyDeluxe.csproj.CoreCompileInputs.cache
+C:\Users\Anthony D. Peterson\Desktop\C# Final Project\Vending Machine\Vending Machine C# Code\HillBillyDeluxe\bin\Debug\net6.0\HillBillyDeluxe.exe
+C:\Users\Anthony D. Peterson\Desktop\C# Final Project\Vending Machine\Vending Machine C# Code\HillBillyDeluxe\bin\Debug\net6.0\HillBillyDeluxe.deps.json
+C:\Users\Anthony D. Peterson\Desktop\C# Final Project\Vending Machine\Vending Machine C# Code\HillBillyDeluxe\bin\Debug\net6.0\HillBillyDeluxe.runtimeconfig.json
+C:\Users\Anthony D. Peterson\Desktop\C# Final Project\Vending Machine\Vending Machine C# Code\HillBillyDeluxe\bin\Debug\net6.0\HillBillyDeluxe.dll
+C:\Users\Anthony D. Peterson\Desktop\C# Final Project\Vending Machine\Vending Machine C# Code\HillBillyDeluxe\bin\Debug\net6.0\HillBillyDeluxe.pdb
+C:\Users\Anthony D. Peterson\Desktop\C# Final Project\Vending Machine\Vending Machine C# Code\HillBillyDeluxe\obj\Debug\net6.0\HillBillyDeluxe.dll
+C:\Users\Anthony D. Peterson\Desktop\C# Final Project\Vending Machine\Vending Machine C# Code\HillBillyDeluxe\obj\Debug\net6.0\refint\HillBillyDeluxe.dll
+C:\Users\Anthony D. Peterson\Desktop\C# Final Project\Vending Machine\Vending Machine C# Code\HillBillyDeluxe\obj\Debug\net6.0\HillBillyDeluxe.pdb
+C:\Users\Anthony D. Peterson\Desktop\C# Final Project\Vending Machine\Vending Machine C# Code\HillBillyDeluxe\obj\Debug\net6.0\HillBillyDeluxe.genruntimeconfig.cache
+C:\Users\Anthony D. Peterson\Desktop\C# Final Project\Vending Machine\Vending Machine C# Code\HillBillyDeluxe\obj\Debug\net6.0\ref\HillBillyDeluxe.dll
